@@ -45,7 +45,7 @@ See the [fzf documentation](https://github.com/junegunn/fzf#installation) for in
 
 | Legacy      | New Keybindings | Remarks                                         |
 | ----------- | --------------- | ----------------------------------------------- |
-| Ctrl-t      | Ctrl-f          | Find a file.                                    |
+| Ctrl-t      | Ctrl-s          | Find a file.                                    |
 | Ctrl-r      | Ctrl-r          | Search through command history.                 |
 | Alt-c       | Alt-o           | cd into sub-directories (recursively searched). |
 | Alt-Shift-c | Alt-Shift-o     | cd into sub-directories, including hidden ones. |
